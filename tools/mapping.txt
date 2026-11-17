@@ -1,0 +1,203 @@
+MC-0001|engine|The upright metal block on top of the engine case, under the cylinder head.|Holds the piston and forms the chamber where fuel burns.
+MC-0002|engine|On top of the cylinder block, the highest part of the engine. The spark plug screws into it.|Seals the top of the cylinder and holds the valves.
+MC-0003|engine|Inside the cylinder block, moving up and down.|Is pushed down by the burning fuel to turn the crankshaft.
+MC-0004|engine|In the grooves around the piston.|Seal the piston against the cylinder wall and control oil.
+MC-0005|engine|Inside the engine case, between the piston and the crankshaft.|Passes the piston's push to the crankshaft.
+MC-0006|engine|Inside the lower engine case.|Turns the piston's up-and-down motion into rotation.
+MC-0007|engine|Inside the cylinder head, at the top of the engine.|Opens and closes the valves at the right moment.
+MC-0008|engine|In a tunnel beside the cylinder, linking the crankshaft to the camshaft.|Keeps the valves in time with the piston.
+MC-0009|engine|On the back of the cylinder, where the cam chain runs.|Keeps the cam chain tight.
+MC-0010|engine|In the cylinder head, on the side where air comes in.|Lets the air and fuel mix into the cylinder.
+MC-0011|engine|In the cylinder head, on the exhaust side.|Lets burnt gas out into the exhaust pipe.
+MC-0012|engine|Around each valve stem, inside the head.|Closes the valve after the camshaft pushes it open.
+MC-0013|engine|Between the camshaft and the valves, under the head cover.|Passes the camshaft's push to the valve.
+MC-0014|engine|Inside the engine case, driven by the crankshaft.|Pushes oil to all the moving parts.
+MC-0015|engine|On the front or side of the engine case (a screw-on can or a cartridge behind a cover, depending on the model).|Cleans dirt out of the engine oil.
+MC-0016|plug|On the side of the cylinder head.|Makes the spark that ignites the fuel.
+MC-0017|engine|Inside the engine case, holding the shafts.|Lets the shafts spin smoothly.
+MC-0018|engine|Between the joining surfaces of the head, cylinder and covers.|Stops oil and gas leaking at the joints.
+MC-0019|engine|On the sides of the engine case.|Protects the clutch and generator and keeps the oil in.
+MC-0020|engine|Inside the engine cover on the clutch side, between the engine and the gearbox.|Lets you disconnect the engine from the wheel when changing gear.
+MC-0021|engine|Inside the clutch.|Grip each other when the clutch lever is released. They wear out with use.
+MC-0022|carb|Between the air filter box and the engine intake.|Mixes air and fuel before they enter the engine.
+MC-0023|carb|On the intake pipe next to the cylinder head.|Sprays a fine mist of fuel into the intake air.
+MC-0024|tank|Inside the fuel tank on fuel-injected bikes.|Pushes fuel to the injector.
+MC-0025|petcock|On the fuel line between the tank and the engine.|Catches dirt in the fuel.
+MC-0026|airbox|Inside the air filter box, beside the engine.|Cleans the air before it goes into the engine.
+MC-0027|airbox|The plastic box beside the engine that holds the air filter.|Holds the filter and quiets the air intake.
+MC-0028|carb|Between the air filter box and the engine.|Controls how much air goes in when you twist the throttle.
+MC-0029|petcock|From the bottom of the fuel tank to the carburetor or injector.|Carries fuel to the engine.
+MC-0030|tank|In front of the seat, over the engine.|Stores the fuel.
+MC-0031|tank|On top of the fuel tank.|Closes the tank and lets air in as fuel is used.
+MC-0032|speedo|In the meter on the handlebar (on the tank on some older models).|Shows how much fuel is left.
+MC-0033|petcock|Under the fuel tank, with a small lever.|Opens and closes the fuel flow to the engine.
+MC-0034|chain|A loop from the small sprocket on the engine to the big sprocket on the rear wheel, on the left side.|Carries power to the rear wheel.
+MC-0035|chain|On the engine's output shaft, left side, behind a small cover.|The small gear that pulls the chain.
+MC-0036|chain|Bolted to the rear wheel hub on the left side.|The big gear the chain turns to drive the wheel.
+MC-0037|chain|On the left side, from the engine to the rear wheel.|Replaces the chain and both sprockets together so they wear evenly.
+MC-0038|handlebar|From the left handlebar lever down to the engine.|Pulls the clutch when you squeeze the lever.
+MC-0039|handlebar|From the right grip down to the carburetor or throttle body.|Opens the throttle when you twist the grip.
+MC-0040|shift|At the left footpeg, on the left side of the engine.|You press it with your foot to change gear.
+MC-0041|engine|Inside the gearbox part of the engine case.|Moves the gears into place when you shift.
+MC-0042|engine|Inside the gearbox, on two parallel shafts.|Sets how fast the rear wheel turns for each engine turn.
+MC-0043|engine|Inside the clutch cover, around the clutch plates.|Holds the clutch plates and is turned by the engine.
+MC-0044|engine|Inside the clutch, pressing the plates together.|Keeps the clutch engaged until you pull the lever.
+MC-0045|engine|Scooters only: inside the side cover, joining the two pulleys.|Carries power from engine to rear wheel, with no gears.
+MC-0046|engine|Scooters only: inside the variator, at the front pulley.|Slide outward as engine speed rises to change the drive ratio.
+MC-0047|engine|Scooters only: on the crankshaft, inside the CVT cover.|The front pulley that changes size as you accelerate.
+MC-0048|engine|Scooters only: at the back end of the CVT cover, linked to the rear wheel.|The rear pulley that drives the wheel.
+MC-0049|brake|Inside the front caliper, one on each side of the disc.|Squeeze the disc to slow the front wheel.
+MC-0050|rearwheel|Inside the rear caliper, beside the rear disc.|Squeeze the rear disc to slow the rear wheel.
+MC-0051|rearwheel|Inside the drum on the rear wheel hub (drum brake models).|Press outward against the drum to slow the wheel.
+MC-0052|brake|Bolted to the wheel hub, with the caliper clamped over it.|The metal disc the pads grip to stop the wheel.
+MC-0053|brake|Clamped over the disc, bolted to the lower fork leg.|Squeezes the pads against the disc.
+MC-0054|handlebar|On the right handlebar, in front of the throttle grip, under the brake lever.|Turns your lever squeeze into brake fluid pressure.
+MC-0055|handlebar|On the handlebar: right for the front brake, left for the clutch.|You squeeze it to brake.
+MC-0056|brake|From the handlebar master cylinder down to the front caliper.|Carries brake fluid pressure to the caliper.
+MC-0057|handlebar|In the small reservoir on the master cylinder, and throughout the hose.|Passes lever force to the pads. Replace every one to two years.
+MC-0058|pedal|On the right side, near the right footpeg.|Your right foot presses it to brake the rear wheel.
+MC-0059|pedal|Near the rear brake pedal, and another at the front brake lever.|Turns on the brake light when you brake.
+MC-0060|battery|Under the seat, behind the side cover.|Starts the engine and powers the lights and horn.
+MC-0061|underseat|A small box under the seat, behind the side cover.|Controls when the spark fires on carbureted bikes.
+MC-0062|underseat|Under the seat on fuel-injected bikes.|The computer that controls fuel and ignition.
+MC-0063|coil|Next to the spark plug, with the plug cap on its wire.|Makes the high voltage for the spark.
+MC-0064|underseat|Under the seat or behind the side cover, often with cooling fins.|Steadies the charging power for the battery.
+MC-0065|engine|Inside the left engine cover, around the flywheel.|Makes electricity while the engine runs.
+MC-0066|engine|Bolted to the engine case near the top front.|Turns the engine over when you press the start button.
+MC-0067|underseat|Near the battery, under the seat.|Switches the heavy current to the starter.
+MC-0068|frame|Runs along the frame from the headlight to the tail light.|Connects all the electrical parts.
+MC-0069|headlight|At the very front, above the front wheel and between the fork tubes.|Lights the road ahead.
+MC-0070|headlight|Inside the headlight housing, behind the lens.|The lamp itself.
+MC-0071|taillight|At the very back, under the rear end of the seat.|Red light that shows you at night and when you brake.
+MC-0072|turn|Four corners: two at the front on the fork or fairing, two at the back.|Blinks to show which way you will turn.
+MC-0073|horn|Mounted under the headlight on the front of the frame.|Warns other road users.
+MC-0074|speedo|On the handlebar, in front of the rider.|Shows speed and distance.
+MC-0075|speedo|On the handlebar, in front of the rider.|Shows speed, fuel, gear and trip information on a screen.
+MC-0076|ign|The key slot in front of the tank or on the headlight bracket.|Turns the electrics on and off.
+MC-0077|underseat|In the fuse box near the battery.|Protects the wiring from overload.
+MC-0078|engine|On the engine case (speed and position) and at the wheel (ABS models).|Tells the computer how fast things are turning.
+MC-0079|fork|The two shiny tubes in front of the headlight.|Absorbs bumps at the front and lets you steer.
+MC-0080|fork|At the top of each lower fork leg, where the chrome tube goes in.|Keeps the fork oil in and the dirt out.
+MC-0081|fork|Inside each fork tube.|Pushes the wheel back down after a bump.
+MC-0082|shock|On both sides at the back, between the frame and the swingarm.|Soaks up bumps so the rear wheel stays on the road.
+MC-0083|frame|The long arm at the back that holds the rear wheel, pivoting on the frame.|Lets the rear wheel move up and down with the shocks.
+MC-0084|steerhead|In the frame's front tube, under the top triple clamp.|Lets the front end turn smoothly.
+MC-0085|handlebar|On top of the fork, right in front of the rider.|Steering, with the throttle, brake and clutch.
+MC-0086|handlebar|On both ends of the handlebar.|Give your hands a grip. The right one turns for the throttle.
+MC-0087|steerhead|The shaft that goes through the frame's front tube.|Connects the fork to the handlebar.
+MC-0088|steerhead|The top and bottom plates holding the fork tubes.|Hold the fork tubes in line and attach them to the steering stem.
+MC-0089|frontwheel|Held between the bottom ends of the fork.|Carries the front load and steers.
+MC-0090|rearwheel|At the back, on the swingarm.|Puts the engine's power on the road.
+MC-0091|frontwheel|Inside the tire, on tube-type wheels.|Holds the air.
+MC-0092|frontwheel|The metal ring the tire sits on.|Holds the tire and connects to the spokes.
+MC-0093|frontwheel|From the hub to the rim, on spoked wheels.|Hold the rim to the hub.
+MC-0094|frontwheel|At the center of the wheel.|Spins on the axle and holds the spokes.
+MC-0095|frontwheel|Inside the hub, one on each side.|Lets the wheel spin smoothly.
+MC-0096|frontwheel|The small stem on the rim.|Used to pump air in and keep it there.
+MC-0097|frontwheel|Through the middle of the hub, held in the fork.|Holds the wheel to the bike.
+MC-0098|frontwheel|Between the hub and the fork or brake disc.|Keeps the wheel centered.
+MC-0099|ffender|Over the front wheel.|Keeps mud and water off the rider and engine.
+MC-0100|rfender|Over the rear wheel, behind the seat.|Stops mud and water flying up from the rear wheel.
+MC-0101|sidepanel|On the sides of the bike, beside the engine and seat.|Covers the parts inside and gives the bike its shape.
+MC-0102|headlight|At the front, around the headlight and upper fork.|Gives airflow and protects the headlight.
+MC-0103|headlight|Over the front of the headlight.|Protects the headlight lens.
+MC-0104|sidepanel|On each side below the seat.|Hides the battery and wiring.
+MC-0105|tank|Over the fuel tank.|Protects the tank and gives it its look.
+MC-0106|seat|Behind the fuel tank, on the rear of the frame.|Where the rider and passenger sit.
+MC-0107|seat|Stretched over the seat foam.|Protects the foam from water.
+MC-0108|mirrors|On the handlebar, near each grip.|Lets you see traffic behind you.
+MC-0109|footpeg|On each side of the engine, low on the frame.|Where the rider's feet rest.
+MC-0110|carrier|Behind the seat, over the rear wheel.|Carries a box or a bag.
+MC-0111|plate|Under the tail light, on the rear fender.|Holds the license plate.
+MC-0112|exhaust|Starts at the front of the cylinder, curls under the engine and runs back on the right side.|Carries hot gas away and quiets the engine.
+MC-0113|none|Loose hardware used all over the bike.|Holds parts together. Match the size and thread to the part you are fixing.
+MC-0114|none|Loose hardware used under nuts and bolts.|Spreads the clamping load.
+MC-0115|none|Used in many seals around the engine and the brakes.|Seal rubber rings in small spaces.
+MC-0116|none|Where shafts leave the engine case or wheel hubs.|Keeps oil in and dirt out.
+MC-0117|none|In many places where parts meet the frame.|Absorb vibration.
+MC-0118|handlebar|At the end of the cable by each lever.|Lets you fine-tune the lever play.
+MC-0119|none|Used all over the bike for panels and wires.|Hold small parts in place.
+MC-0120|engine|Added through the filler cap on the engine side and drained at the bottom of the engine case.|Lubricates and cools the moving parts of the engine.
+MC-0121|none|Liquid-cooled bikes only, in the radiator at the front under the tank.|Carries heat away from the engine.
+MC-0122|none|Applied to bearings, cables and pivot points.|Reduces friction.
+MC-0123|chain|Sprayed onto the chain on the left side.|Keeps the chain and sprockets from wearing out.
+BC-0001|frame|The main body of the bike. Everything bolts onto it.|Holds the bike together.
+BC-0002|frame|The main body of the bike. Everything bolts onto it.|Holds the bike together. Lighter than steel.
+BC-0003|frame|The main body of the bike. Everything bolts onto it.|Holds the bike together. Very light and stiff.
+BC-0004|fork|The two legs that hold the front wheel.|Holds the front wheel and lets you steer.
+BC-0005|fork|The two legs that hold the front wheel.|Holds the wheel and absorbs bumps.
+BC-0006|headtube|In the head tube at the front of the frame, top and bottom.|Lets the fork turn smoothly in the frame.
+BC-0007|saddle|In the tube rising behind the pedals.|Holds the saddle and sets its height.
+BC-0008|seatclamp|At the top of the seat tube, around the seatpost.|Locks the seatpost at the height you set.
+BC-0009|saddle|On top of the seatpost.|Where you sit.
+BC-0010|frame|Wrapped around the frame, mostly the down tube and chainstay.|Prevents paint scratches and chain slap.
+BC-0011|chain|A loop from the front chainring to the rear gears.|Carries power from the pedals to the rear wheel.
+BC-0012|crank|The large gear on the right crank arm.|Pulls the chain as you pedal.
+BC-0013|crank|At the lowest point of the frame, below the seat tube.|Turns your leg power into rotation.
+BC-0014|crank|Bolted to the bottom bracket axle, one on each side.|The lever your leg pushes on the pedal.
+BC-0015|bb|Inside the frame shell where the cranks pass through.|Lets the cranks spin smoothly.
+BC-0016|derailleur|On the rear wheel hub, the stack of gears.|The set of gears you shift between.
+BC-0017|derailleur|On the rear wheel hub, screwed on.|The older style of rear gear set.
+BC-0018|derailleur|At the rear wheel on the right, hanging below the gears.|Changes gear by moving the chain across the cassette.
+BC-0019|fd|On the seat tube just above the chainrings.|Moves the chain between the front chainrings.
+BC-0020|shifter|On the handlebar next to the grip.|You use it to change gear.
+BC-0021|frame|Runs along the frame from the shifter to the derailleur.|Pulls the derailleur when you shift.
+BC-0022|pedals|Screwed into the ends of the crank arms.|Where your feet push.
+BC-0023|crank|Around the chainring.|Keeps the chain from falling off.
+BC-0024|derailleur|The two small wheels at the bottom of the rear derailleur.|Guide and tension the chain.
+BC-0025|brakes|On the frame or fork next to the wheel disc.|Squeezes the pads on the disc.
+BC-0026|brakes|At the wheel (caliper) and the handlebar (lever), joined by a fluid hose.|Strong braking with light lever pull.
+BC-0027|handlebar|On the handlebar, by the grip.|You squeeze it to brake.
+BC-0028|brakes|Inside the disc caliper.|Press on the disc to slow the wheel.
+BC-0029|frontwheel|Bolted to the wheel hub.|The disc the brake pads grip.
+BC-0030|handlebar|From the brake lever to the brake.|Pulls the brake when you squeeze the lever.
+BC-0031|handlebar|The cover around the cables.|Guides and protects the cable.
+BC-0032|brakes|Beside each rim, on the fork legs and rear tubes.|Squeeze the rim to slow the bike.
+BC-0033|brakes|At the top of the V-brake arm.|Guides the cable into the brake arm.
+BC-0034|fork|Between the disc caliper and the fork or frame.|Lets a caliper fit a different disc size.
+BC-0035|frontwheel|Between the two fork legs.|Carries the front load.
+BC-0036|rearwheel|In the rear slots of the frame.|Receives the pedaling power.
+BC-0037|frontwheel|The metal ring the front tire sits on.|Holds the tire.
+BC-0038|rearwheel|The metal ring the rear tire sits on.|Holds the tire.
+BC-0039|frontwheel|From the hub to the rim.|Hold the rim to the hub.
+BC-0040|frontwheel|At the center of the wheel.|Spins on the axle.
+BC-0041|frontwheel|Inside the hub.|Lets the wheel spin smoothly.
+BC-0042|frontwheel|On both wheels.|Grips off-road surfaces.
+BC-0043|frontwheel|On both wheels.|Rolls fast on pavement.
+BC-0044|frontwheel|Inside the tire.|Holds the air.
+BC-0045|frontwheel|On the rim.|Used to pump air in tubeless tires.
+BC-0046|frontwheel|On the rim inside the tire.|Seals the spoke holes.
+BC-0047|frontwheel|Through the hub, held by the fork.|Clamps the wheel in the frame with one lever.
+BC-0048|frontwheel|Through the hub, screwed into the frame or fork.|Holds the wheel more securely than a skewer.
+BC-0049|fork|Inside the fork legs.|Pushes the wheel back after a bump.
+BC-0050|fork|At the top of each lower fork leg.|Keeps fork oil in and dirt out.
+BC-0051|rshock|Between the frame and swingarm on full-suspension bikes.|Soaks up bumps at the rear.
+BC-0052|handlebar|On the handlebar, near the grip.|Locks the suspension for climbing.
+BC-0053|rshock|At both ends of the rear shock.|Let the shock move without wearing.
+BC-0054|handlebar|Above the fork, in front of the rider.|Steering for mountain and city bikes.
+BC-0055|handlebar|Above the fork, in front of the rider.|Steering for road bikes with several hand positions.
+BC-0056|handlebar|On the ends of a flat bar.|Where your hands rest.
+BC-0057|handlebar|At the ends of a flat bar.|Give you another hand position.
+BC-0058|handlebar|Wrapped around a drop bar.|Gives grip and cushions the hands.
+BC-0059|handlebar|At the top of the fork, holding the handlebar.|Connects the handlebar to the fork.
+BC-0060|headtube|Inside the headset at the front of the frame.|Lets the fork turn smoothly.
+BC-0061|handlebar|On the handlebar, by the grip.|A new lever if the old one breaks.
+BC-0062|shifter|On the handlebar, next to the grip.|A new shifter if the old one breaks.
+BC-0063|bell|On the handlebar, near the grip.|Warns people you are coming.
+BC-0064|light|Clamped on the handlebar, pointing forward.|Lets you see and be seen at night.
+BC-0065|rearlight|On the seatpost or the rear rack.|Makes you visible from behind.
+BC-0066|computer|In the middle of the handlebar, near the stem.|Shows speed and distance.
+BC-0067|kickstand|Under the chainstay, near the rear axle.|Holds the bike up when parked.
+BC-0068|mudguard|Over each wheel.|Keeps mud and water off you.
+BC-0069|cage|On the down tube or seat tube.|Holds a water bottle.
+BC-0070|rack|Over the rear wheel.|Carries bags and cargo.
+BC-0071|none|Carried with you or attached to the frame.|Locks the bike so it cannot be taken.
+BC-0072|cage|Sits in the bottle cage.|Carries your drink.
+BC-0073|none|A workshop or carry-along tool.|Pumps air into the tires.
+BC-0074|none|A workshop or carry-along tool.|Helps remove tires without damage.
+BC-0075|none|A workshop or carry-along tool.|Covers common adjustments in one tool.
+BC-0076|none|A workshop or carry-along item.|Fixes a flat tire.
+BC-0077|chain|Applied to the chain.|Keeps the chain quiet and stops wear.
+BC-0078|none|A workshop item.|Cleans dirt off the bike.
+BC-0079|none|Worn by the rider.|Protects the head in a fall.
+BC-0080|none|Worn by the rider.|Pads the hands and improves grip.
